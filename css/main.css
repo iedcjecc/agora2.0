@@ -671,7 +671,7 @@ body {
 	flex-wrap: wrap;
 	border-radius: 50px;
 	box-shadow: 10px 10px #808080;
-	height: 500px;
+	height: 450px;
 	margin-top: 50px;
 }
 .ordev-img1 {
@@ -701,7 +701,7 @@ body {
 	border-radius: 50px;
 	box-shadow: 10px 10px #808080;
 	margin-left: 200px;
-	height: 500px;
+	height: 450px;
 	margin-top: 50px;
 }
 .ordev-img2 {
@@ -711,8 +711,8 @@ body {
 }
 
 .ordev-img2 img {
-	width: 80%;
-	height: 87%;
+	width: 70%;
+	height: 100%;
 	padding-top: 20px;
 	margin-left: -27px;
 }
@@ -728,7 +728,7 @@ body {
 }
 .orgdev-text2 {
 	font-family: 'JetBrains Mono',sans-serif;
-	margin-top: -30px;
+	margin-top: 20px;
 	font-weight: bold;
 	font-size: 20px;
 	color: black;
@@ -748,7 +748,8 @@ body {
 	flex-wrap: wrap;
 	border-radius: 50px;
 	box-shadow: 10px 10px #808080;
-	height: 500px;
+	height: 410px;
+	margin-left: -200px;
 }
 .ordev-img3 {
 	padding-left: 30px;
@@ -757,8 +758,8 @@ body {
 }
 
 .ordev-img3 img {
-	width: 80%;
-	height: 95%;
+	width: 70%;
+	height: 105%;
 	padding-top: 20px;
 	margin-left: -27px;
 }
@@ -776,8 +777,8 @@ body {
 	flex-wrap: wrap;
 	border-radius: 50px;
 	box-shadow: 10px 10px #808080;
-	height: 500px;
-	margin-left: 200px;
+	height: 410px;
+	margin-left: 100px;
 }
 .ordev-img4 {
 	padding-left: 30px;
@@ -786,8 +787,8 @@ body {
 }
 
 .ordev-img4 img {
-	width: 80%;
-	height: 100%;
+	width: 70%;
+	height: 105%;
 	padding-top: 20px;
 	margin-left: -27px;
 }
@@ -805,8 +806,9 @@ body {
 	flex-wrap: wrap;
 	border-radius: 50px;
 	box-shadow: 10px 10px #808080;
-	height: 550px;
-	margin-left: 300px;
+	height: 410px;
+	margin-left: 100px;
+	margin-top: 30px;
 }
 .ordev-img5 {
 	padding-left: 30px;
@@ -815,8 +817,8 @@ body {
 }
 
 .ordev-img5 img {
-	width: 80%;
-	height: 100%;
+	width: 70%;
+	height: 82%;
 	padding-top: 20px;
 	margin-left: -27px;
 }
@@ -827,7 +829,7 @@ body {
 	font-size: 20px;
 	color: black;
 	width: 100%;
-	margin-top: -140px;
+	margin-top: -100px;
 }
 .orgdev-text4 {
 	font-family: 'JetBrains Mono',sans-serif;
@@ -836,6 +838,7 @@ body {
 	font-size: 20px;
 	color: black;
 	width: 100%;
+	margin-top: 20px;
 }
 .orgdev-text5 {
 	font-family: 'JetBrains Mono',sans-serif;
@@ -844,6 +847,7 @@ body {
 	font-size: 20px;
 	color: black;
 	width: 100%;
+	margin-top: -55px;
 }
 .ordev-img img.img-square {
 	width: 50%;
