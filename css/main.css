@@ -221,7 +221,7 @@ body {
 	font-size: 20px;
 }
 
-.frame1-left .devfolio button .button-back {
+/*.frame1-left .devfolio button .button-back {
 	background-color: rgba(255,255,255,0.8);
 	width: 0%;
 	height: 100px;
@@ -234,15 +234,15 @@ body {
 	-moz-transition: width 0.3s;
 	transition: width 0.3s;
 
-}
+}*/
 
 .frame1-left .devfolio button:hover {
 	color: #669999;
 }
 
-.frame1-left .devfolio button:hover .button-back {
+/*.frame1-left .devfolio button:hover .button-back {
 	width: 100%;
-}
+}*/
 
 .frame1-right {
 	width: 45%;
@@ -274,6 +274,50 @@ body {
     display: flex;
 }
 #devfolio-apply-now a {
+	text-decoration: none;
+	color: white;
+	font-family: 'JetBrains Mono',sans-serif;
+	font-size: 20px;
+}
+.frame1-left .rules {
+	margin-top: 20px;
+}
+
+.frame1-left .rules button {
+	border: 2px solid rgba(255,255,255,0.8);
+	background-color: rgba(255,255,255,0);
+	color: rgba(255,255,255,0.8);
+	font-family: 'Didact Gothic';
+	padding-left: 30px;
+	padding-right: 30px;
+	height: 50px;
+	font-size: 1em;
+	font-weight: bold;
+	cursor: pointer;
+	overflow: none;
+	position: relative;
+	-webkit-transition: color 0.3s;
+	-moz-transition: color 0.3s;
+	transition: 0.3s;
+	padding-top: 10px;
+	border-radius: 50px;
+	font-size: 20px;
+	margin-left: 5px;
+}
+.frame1-left .rules button:hover {
+	color: #669999;
+}
+#check-rules:hover {
+    color: #ffffff;
+	font-size: 30px;
+}
+
+#check-rules {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+}
+#check-rules a {
 	text-decoration: none;
 	color: white;
 	font-family: 'JetBrains Mono',sans-serif;
@@ -818,7 +862,7 @@ body {
 
 .ordev-img5 img {
 	width: 70%;
-	height: 82%;
+	height: 85%;
 	padding-top: 20px;
 	margin-left: -27px;
 }
@@ -842,7 +886,7 @@ body {
 }
 .orgdev-text5 {
 	font-family: 'JetBrains Mono',sans-serif;
-	padding-top: 20px;
+	padding-top: 30px;
 	font-weight: bold;
 	font-size: 20px;
 	color: black;

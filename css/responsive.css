@@ -112,7 +112,10 @@
 		margin-top: 10px;
 	}
 	.frame1-left .content .devfolio #devfolio-apply-now{
-		margin-left: 50px;
+		margin-left: 40px;
+	}
+	.frame1-left .content .rules #check-rules{
+		margin-left: 70px;
 	}
 	.faq {
 		font-size: 1em;
@@ -145,7 +148,9 @@
 		width: 400px;
 		top: 5%;
 	}
-
+	.frame4-left img{
+		margin-top: 50px;
+	}
 	.frame4 .img-back-right, .frame2 .img-back-left {
 		top: 40%;
 		right: -10%;
@@ -165,10 +170,6 @@
 
 	.frame4-right {
 		left: 0px;	
-	}
-
-	.sponsor-icons .sponsor-icon.dev-icon img {
-		width: 90%;
 	}
 
 	.prize {
